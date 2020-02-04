@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/2019nCoVMaterialStore/v16/.suo
+/.vs
+/server/nCoVMSApi/.vs/nCoVMSApi
+/server/nCoVMSApi/nCoVMSApi/bin/Debug/netcoreapp3.0
+/server/nCoVMSApi/nCoVMSApi/obj

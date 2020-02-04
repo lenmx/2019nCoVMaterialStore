@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nCoVMSApi", "nCoVMSApi\nCoVMSApi.csproj", "{26E14CA8-1229-4633-B1F4-9D457681D3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E14CA8-1229-4633-B1F4-9D457681D3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E14CA8-1229-4633-B1F4-9D457681D3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E14CA8-1229-4633-B1F4-9D457681D3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E14CA8-1229-4633-B1F4-9D457681D3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7180BAB-7AF9-494A-81DA-DCD7CBD8EFB0}
+	EndGlobalSection
+EndGlobal
